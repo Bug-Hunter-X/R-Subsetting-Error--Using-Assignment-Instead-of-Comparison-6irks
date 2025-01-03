@@ -1,0 +1,2 @@
+# R Subsetting Bug
+This repository demonstrates a common error in R programming related to data frame subsetting. The `bug.r` file contains code that incorrectly uses assignment (`=`) instead of a comparison operator (`==`) when subsetting a data frame. This leads to unexpected behavior. The solution is shown in `bugSolution.r`.
